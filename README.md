@@ -1,3 +1,3 @@
 # Credit-Card-Analytics-Dashboard
 
-In this repository I made a dynamic dashboard of Sales Dataset.
+In this repository I made a dynamic dashboard of Credit Card Dataset.
